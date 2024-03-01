@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302648750968",
+    "project_id": "ktproject-470b0",
+    "storage_bucket": "ktproject-470b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302648750968:android:fe4412d5c359e42369ce8d",
+        "android_client_info": {
+          "package_name": "com.myktapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302648750968-962a18q1taujdv5kcqnv0ci691gb7v1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myktapp",
+            "certificate_hash": "1a3a4f9fbf8af89649e994e7af23cffb33797349"
+          }
+        },
+        {
+          "client_id": "302648750968-udoannma2os2e82vq5fsdc2jldcrmg0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPONjeK0N4Nsq3i3UUyl2zPfXJY2JtXDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302648750968-udoannma2os2e82vq5fsdc2jldcrmg0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
